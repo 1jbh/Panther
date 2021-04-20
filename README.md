@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">Why Use Panther?</h3>
+<h3 align="left">Why Use Panther?</h3>
 
 * Great for Old PC's, where any boost in performance is significant.
 * Great for New PC's, if you value speed and simplicity.
