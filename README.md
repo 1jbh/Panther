@@ -1,3 +1,3 @@
-<p style="text-align: center;"><h1>Panther</h1></p>
+<h1 align="center">Panther</h1>
 
-<p style="text-align: center;"><h4>A simple, minimalistic approach to browsing the web.</h4></p>
+<h4 align="center">A simple, minimalistic approach to browsing the web.</h4>
