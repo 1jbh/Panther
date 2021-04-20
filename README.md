@@ -6,9 +6,11 @@
 
 
 
-<h3 align="left">Why Use Panther?</h3>
+<h3 align="center">Why Use Panther?</h3>
 
 * Great for Old PC's, where any boost in performance is significant.
 * Great for New PC's, if you value speed and simplicity.
 * Great for your privacy, a safe browser that won't take your information.
 * Simple to set up, easy to use- all in one executable.
+
+<h3 align="center">Prerequisites and Installation:</h3>
