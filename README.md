@@ -15,4 +15,9 @@
 
 <h3 align="center">Prerequisites and Installation:</h3>
 
-* Install Python from [Here](https://www.python.org/downloads/). Then, run the setup script (make sure to add to PATH). 
+* Install Python from [here](https://www.python.org/downloads/). Then, run the setup script (make sure to add to PATH). Next, you will also need pip. In some python versions, it comes with it, but you may need to install it. If it doesn't come with your python, look up how to get it for your operating system.
+* Next, run the **Setup.py** to install the necessary modules.
+* After they are installed, simply run "Panther.exe" and your browser will start up!
+* Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire.
+
+Created by: RTX-3080 with :hearts:
