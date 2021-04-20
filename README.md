@@ -12,12 +12,13 @@
 * Great for New PC's, if you value speed and simplicity.
 * Great for your privacy, a safe browser that won't take your information.
 * Simple to set up, easy to use - all in one executable.
-
+* Default search engine is DuckDuckGo, a secure search engine.
 <h3 align="center">Prerequisites and Installation:</h3>
 
 * Install Python from [here](https://www.python.org/downloads/). Then, run the setup script (make sure to add to PATH). Next, you will also need pip. In some python versions, it comes with it, but you may need to install it. If it doesn't come with your python, look up how to get it for your operating system.
-* Next, run the **Setup.py** to install the necessary modules.
+* Next, run **py -m pip install -r requirements.txt** to install the necessary modules. If that does not work for any reason, it will attempt to install them when you launch the browser.
 * After they are installed, simply run "Panther.exe" and your browser will start up!
-* Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire.
+* Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire. 
+* For advanced users: If you prefer to have a different search engine when you launch the browser, enter the code and where it says "https://duckduckgo.com" replace it with the search engine of your choice. 
 
 <h4 align="center">Created by RTX-3080 with :hearts:</h3>
