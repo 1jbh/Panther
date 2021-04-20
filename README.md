@@ -14,3 +14,5 @@
 * Simple to set up, easy to use- all in one executable.
 
 <h3 align="center">Prerequisites and Installation:</h3>
+
+* Install Python from (https://www.python.org/downloads/ "Here")
