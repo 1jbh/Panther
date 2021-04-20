@@ -20,4 +20,4 @@
 * After they are installed, simply run "Panther.exe" and your browser will start up!
 * Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire.
 
-Created by: RTX-3080 with :hearts:
+<h4 align="center">Created by: RTX-3080 with :hearts:</h3>
