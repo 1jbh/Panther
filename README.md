@@ -15,4 +15,4 @@
 
 <h3 align="center">Prerequisites and Installation:</h3>
 
-* Install Python from (https://www.python.org/downloads/ "Here")
+* Install Python from [Here](https://www.python.org/downloads/). Then, run the setup script (make sure to add to PATH). 
