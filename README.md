@@ -2,6 +2,10 @@
 
 <h4 align="center">A simple, minimalistic approach to browsing the web.</h4>
 
+
+
+
+
 <h3 align="left">Why Use Panther?</h3>
 
 * Great for Old PC's, where any boost in performance is significant.
