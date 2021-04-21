@@ -23,6 +23,6 @@
 * Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire. 
 * For advanced users: If you prefer to have a different search engine when you launch the browser, enter the code and where it says "https://duckduckgo.com" replace it with the search engine of your choice. 
 
-**AT THE MOMENT THIS BROWSER IS IN A BETA STATE, SO IT IS SOMEWHAT DIFFICULT TO GET UP AND RUNNING. IN FUTURE VERSIONS, I WILL MAKE IT AN EXECUTABLE. IF YOU WOULD LIKE, YOU CAN LOOK AT THE SOURCE AND MAKE RECOMMENDATIONS FOR EASE OF USE IN AN ISSUE ON THIS REPOSITORY.**
+**AT THE MOMENT THIS BROWSER IS IN A BETA STATE, SO IT IS SOMEWHAT DIFFICULT TO GET UP AND RUNNING. IT IS ALSO MISSING A NEW TAB FEATURE. IN FUTURE VERSIONS, I WILL MAKE IT AN EXECUTABLE AND ADD FEATURES. IF YOU WOULD LIKE, YOU CAN LOOK AT THE SOURCE AND MAKE RECOMMENDATIONS FOR EASE OF USE IN AN ISSUE ON THIS REPOSITORY.**
 
 <h4 align="center">Created by RTX-3080 with :hearts:</h3>
