@@ -16,11 +16,13 @@
 <h3 align="center">Prerequisites and Installation:</h3>
 
 * Install Python from [here](https://www.python.org/downloads/). Then, run the setup script (make sure to add to PATH). Next, you will also need pip. In some python versions, it comes with it, but you may need to install it. If it doesn't come with your python, look up how to get it for your operating system.
-* Next, run **py -m pip install -r requirements.txt** to install the necessary modules. If that does not work for any reason, it will attempt to install them when you launch the browser.
 * Download the ZIP file from releases, and unzip it to your desktop.
-* After you've done that, simply open up CMD in the folder, and your browser will start up!
+* After you've done that, simply open up a command prompt/terminal in the folder.
+* Next, run **py -m pip install -r requirements.txt** to install the necessary modules. If that does not work for any reason, it will attempt to install them when you launch the browser.
+* Now, type **python panther.py** and the browser will launch!
 * Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire. 
 * For advanced users: If you prefer to have a different search engine when you launch the browser, enter the code and where it says "https://duckduckgo.com" replace it with the search engine of your choice. 
-* **AT THE MOMENT THIS BROWSER IS IN A BETA STATE, SO IT IS SOMEWHAT DIFFICULT TO GET UP AND RUNNING. IN FUTURE VERSIONS, I WILL MAKE IT AN EXECUTABLE. I APOLOGIZE.**
+
+**AT THE MOMENT THIS BROWSER IS IN A BETA STATE, SO IT IS SOMEWHAT DIFFICULT TO GET UP AND RUNNING. IN FUTURE VERSIONS, I WILL MAKE IT AN EXECUTABLE. IF YOU WOULD LIKE, YOU CAN LOOK AT THE SOURCE AND MAKE RECOMMENDATIONS FOR EASE OF USE IN AN ISSUE ON THIS REPOSITORY.**
 
 <h4 align="center">Created by RTX-3080 with :hearts:</h3>
