@@ -19,7 +19,7 @@
 * Download the ZIP file from releases, and unzip it to your desktop.
 * After you've done that, simply open up a command prompt/terminal in the folder.
 * Next, run **py -m pip install -r requirements.txt** to install the necessary modules. If that does not work for any reason, it will attempt to install them when you launch the browser.
-* Now, type **python panther.py** and the browser will launch!
+* Now, type **python Panther.py** and the browser will launch!
 * Please note: you can put it anywhere and make a shortcut as you would with any other browser if you desire. 
 * For advanced users: If you prefer to have a different search engine when you launch the browser, enter the code and where it says "https://duckduckgo.com" replace it with the search engine of your choice. 
 
